@@ -173,6 +173,7 @@ svg {
   top: 0;
   left: 0;
   width: 100%;
+  height: auto;
   z-index: 1000;
   background: #1e3a2f;
   padding: 0.4rem clamp(0.4rem, 2vw, 1.2rem);
@@ -182,8 +183,8 @@ svg {
   align-items: center;
   justify-content: space-between;
   gap: 0.3rem;
-  min-height: 70px;
-  border-bottom: 4px solid #f5c542;
+  min-height: 90px;
+  border-bottom: 5px solid #f5c542;
   transition: transform 0.3s ease;
   overflow: hidden;
 }
