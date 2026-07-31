@@ -195,12 +195,12 @@ svg {
 }
 
 .header-logo img {
-  width: 80px;
-  height: 80px;
+  width: 90px;
+  height: 90px;
  
 
   border-radius: 50%;
-  border: 4px solid #f5c542;
+  border: 3px solid #f5c542;
 }
 
 .header-center {
